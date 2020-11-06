@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "Unit 2_Challenging_problems/1.0.0": {
+        "runtime": {
+          "Unit 2_Challenging_problems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit 2_Challenging_problems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
